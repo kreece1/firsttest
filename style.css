@@ -17,6 +17,7 @@ body{
  background-color: lavenderblush;
 }
 .header:hover{
-    from{red}
-    to{skyblue}
+    from{ color: red;};
+    to{color: skyblue}
+    text-align: center;
 }
