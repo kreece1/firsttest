@@ -16,3 +16,7 @@ table{
 body{
  background-color: lavenderblush;
 }
+.header:hover{
+    from{red}
+    to{skyblue}
+}
