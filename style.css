@@ -29,3 +29,6 @@ body {
 div .header:hover {
     color: skyblue;
 }
+img{
+    text-align: center;
+}
