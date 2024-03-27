@@ -21,12 +21,12 @@ table {
 body {
  background-color: lavenderblush;
 }
-div .header {
-    COLOR:red;
+.header {
+    color:red;
     text-align: center;
     font-family: fantasy;
 }
-div .header:hover {
+.header:hover {
     color: skyblue;
 }
 img{
