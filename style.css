@@ -4,6 +4,11 @@ h1 {
 h2{ 
     color:darkgoldenrod
 }
+h3{
+    color:darkslategrey;
+    font-family: fantasy;
+    text-align: center;
+}
 .date{
     background-color: aliceblue;
 }
