@@ -21,13 +21,13 @@ table {
 body {
  background-color: lavenderblush;
 }
-header h1 {
+.header h1 {
     color:red;
     text-align: center;
     font-family: fantasy;
     font-size: 40px;
 }
-header h1:hover {
+.header h1:hover {
     color: skyblue;
 }
 img{
