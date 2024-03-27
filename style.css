@@ -27,7 +27,7 @@ body {
     font-family: fantasy;
     font-size: 40px;
 }
- header:hover:after {
+.header:hover:after {
     color: skyblue;
 }
 img{
