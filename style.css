@@ -25,8 +25,9 @@ body {
     color:red;
     text-align: center;
     font-family: fantasy;
+    font-size: 40px;
 }
- header:hover {
+ header:hover:after {
     color: skyblue;
 }
 img{
