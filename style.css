@@ -16,8 +16,12 @@ table{
 body{
  background-color: lavenderblush;
 }
-.header:hover{
-    from{ color: red;};
-    to{color: skyblue}
+.header{
+    COLOR:red;
     text-align: center;
+    font-family: fantasy;
+}
+.header:hover{
+    color: skyblue;
+    
 }
