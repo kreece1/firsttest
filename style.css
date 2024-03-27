@@ -1,32 +1,31 @@
 h1 { 
     color:midnightblue
 }
-h2{ 
+h2 { 
     color:darkgoldenrod
 }
-h3{
+h3 {
     color:darkslategrey;
     font-family: fantasy;
     text-align: center;
 }
-.date{
+.date {
     background-color: aliceblue;
 }
-table{ 
+table { 
     text-align: center;
 }
-#source{ 
+#source { 
     font-style: italic;
 }
-body{
+body {
  background-color: lavenderblush;
 }
-.header{
+ div .header {
     COLOR:red;
     text-align: center;
     font-family: fantasy;
 }
-.header:hover{
+div .header:hover {
     color: skyblue;
-    
 }
