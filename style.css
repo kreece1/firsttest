@@ -10,9 +10,7 @@ h3 {
     font-family: fantasy;
     text-align: center;
 }
-.date {
-    background-color:honeydew;
-}
+
 table { 
     text-align: center;
 }
@@ -33,4 +31,8 @@ body {
 }
 img{
     align-items: center;
+}
+
+.date {
+    background-color:lightblue;
 }
